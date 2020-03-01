@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
+    "",
     "\\DatingApp-SPA",
-    "\\DatingApp-SPA\\src\\app",
-    "\\DatingApp-SPA\\src\\app\\value",
     "\\DatingApp.API\\Controllers",
+    "\\DatingApp.API\\Migrations",
     "\\DatingApp.API\\Models",
     "\\DatingApp.API\\Properties"
   ],

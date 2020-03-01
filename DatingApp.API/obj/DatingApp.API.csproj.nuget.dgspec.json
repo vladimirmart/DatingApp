@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MartellHome\\Desktop\\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\\DatingApp.API\\DatingApp.API.csproj": {}
+    "E:\\Progr\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MartellHome\\Desktop\\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\\DatingApp.API\\DatingApp.API.csproj": {
+    "E:\\Progr\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MartellHome\\Desktop\\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "E:\\Progr\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\Users\\MartellHome\\Desktop\\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "E:\\Progr\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\MartellHome\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MartellHome\\Desktop\\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\\DatingApp.API\\obj\\",
+        "outputPath": "E:\\Progr\\DatingApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
