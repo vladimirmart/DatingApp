@@ -136,7 +136,6 @@ E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcor
 E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\Progr\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -276,3 +275,4 @@ C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CopyComplete
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
+E:\Progr\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
