@@ -275,4 +275,10 @@ C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CopyComplete
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
 C:\Users\MartellHome\Desktop\DatingApp-5c395db21c48d86bc81825231842c4bedb15ff46\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
+E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 E:\Progr\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Progr\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
